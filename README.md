@@ -1,2 +1,3 @@
-# Git-tut-demo
-This is repository for git tutorial
+Jasuja 
+Rakesh Jausuja
+Don't underestimate this guy
